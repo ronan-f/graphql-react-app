@@ -1,2 +1,3 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+## Lyrical
+
+Online tutorial I'm following to learn the basics of GraphQL and how it interacts with React
